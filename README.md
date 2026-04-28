@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚙️ NexusPart | Local RAG System for Industrial Supply Chains
 
 
@@ -54,3 +55,7 @@ Always double-check the AI's advice. Before buying or using a part, make sure it
 
 ---
 **Created by [Laiva Noor]** *Making industrial work easier with AI.*
+=======
+# NexusPart-Industrial-RAG
+An industrial supply chain intelligence tool using Llama 3 and FAISS
+>>>>>>> 83595564c180e7c720e2186c05301703a1678a01
