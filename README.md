@@ -1,12 +1,12 @@
-<<<<<<< HEAD
-# ⚙️ NexusPart | Local RAG System for Industrial Supply Chains
+
+# NexusPart | Local RAG System for Industrial Supply Chains
 
 
 **NexusPart** is a smart tool for people who work with industrial parts. It helps you find the right electrical components (like fuses) from a big warehouse list. It uses **AI (Llama 3)** to make sure the parts are safe to use.
 
 ---
 
-## 🚀 What can it do?
+## What can it do?
 
 * **Smart Search:** You don't need exact part numbers. You can type "2A Fuse for high voltage," and it will understand what you need.
 * **AI Advice:** It talks like a friendly expert. It tells you *why* a part is a good match and warns you if there is a safety risk.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ How it was built
+## How it was built
 
 * **Python:** The main language used for coding.
 * **Streamlit:** Used to create the website-like dashboard.
@@ -25,7 +25,7 @@
 
 ---
 
-## 📦 How to set it up
+## How to set it up
 
 1.  **Clone the code:** Download this project to your computer.
 2.  **Install Libraries:** Open your terminal and type:
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 Files in this project
+## Files in this project
 
 * `app.py` – The main code for the dashboard and UI.
 * `processed_parts_for_rag.csv` – The cleaned list of all industrial parts.
@@ -50,12 +50,8 @@
 
 ---
 
-## 🛡️ Safety Warning
+## Safety Warning
 Always double-check the AI's advice. Before buying or using a part, make sure it meets your circuit's safety rules and official datasheets.
 
----
-**Created by [Laiva Noor]** *Making industrial work easier with AI.*
-=======
-# NexusPart-Industrial-RAG
-An industrial supply chain intelligence tool using Llama 3 and FAISS
->>>>>>> 83595564c180e7c720e2186c05301703a1678a01
+**Created by Laiva Noor**
+
