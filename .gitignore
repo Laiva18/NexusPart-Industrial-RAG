@@ -1,0 +1,20 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit local files
+.streamlit/config.toml
+
+# OS related files
+.DS_Store
+Thumbs.db
+
+
+*.csv
