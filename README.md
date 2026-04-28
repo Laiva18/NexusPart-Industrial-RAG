@@ -2,7 +2,7 @@
 # NexusPart | Local RAG System for Industrial Supply Chains
 
 
-**NexusPart** is a smart tool for people who work with industrial parts. It helps you find the right electrical components (like fuses) from a big warehouse list. It uses **AI (Llama 3)** to make sure the parts are safe to use.
+**NexusPart** is a smart tool for people who work with industrial parts. It helps you find the right electrical components from a big warehouse list. It uses **AI (Llama 3)** to make sure the parts are safe to use.
 
 ---
 
